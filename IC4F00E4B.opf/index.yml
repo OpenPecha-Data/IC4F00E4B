@@ -1,0 +1,11 @@
+id: 9ddd008bd0fc4722801aa8cd4f5b88df
+annotation_type: index
+revision: '00001'
+annotations:
+  ea3baf2f1a4a4c348fe35f91cd39315b:
+    base: 7C7C.txt
+    Chapters:
+    - title: Adhikaraṇavastu
+      span:
+        start: 0
+        end: 582

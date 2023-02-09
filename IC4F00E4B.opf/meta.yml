@@ -1,0 +1,16 @@
+id: IC4F00E4B
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:10:57.486978
+last_modified: 2023-02-09 15:10:57.487071
+source_metadata:
+  title: 'MSV 1,16: Adhikaraṇavastu'
+  language: bo
+bases:
+  7C7C:
+    base_file: 7C7C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
